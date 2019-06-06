@@ -11,7 +11,7 @@ Here's what you'll need. The links below to each part are just examples - with a
 
 - 2 360 servos with wheels (I used FS90R servos with wheels like this https://www.kitronik.co.uk/2574-wheel-for-fs90r-60mmx8mm.html). 360 servos are super cheap, super unreliable and super easy to hook up, which is exactly why I chose them. Remember, the unicorn not going exactly where you expect it to go is kind of the point.
 
-- A small swivelling castor wheel plus the niuts and bolts to fix it to the base (something like this https://www.amazon.co.uk/dp/B074WP1QJN/). You can use a marble like castor wheel designed for robots but if you use the cheaper ones designed for furniture you can figure out a special way get your robot unicorn to rear up like She Ra's flying unicorn Swift Wind. Or sometimes it will just fall over. Either way, it's funny.
+- A small swivelling castor wheel plus the niuts and bolts to fix it to the base (something like this https://www.amazon.co.uk/dp/B074WP1QJN/). You can use a marble like castor wheel designed for robots but if you use the cheaper ones designed for furniture you can figure out a special way to get your robot unicorn to rear up like She Ra's flying unicorn Swift Wind. Or sometimes it will just fall over. Either way, it's funny.
 
 - A 3XAA battery pack with on off switch and leads (something like this https://www.amazon.com/x1-5V-Battery-Holder-Switch-Wires/dp/B01C5J4K3Q/)
 
