@@ -1,9 +1,11 @@
 # robot-unicorn
 Gesture controlled robot unicorn made of cardboard, glitter and microbits
 
+![robot-unicorn-picture](https://pbs.twimg.com/media/D8aPxreXsA41eoR?format=jpg)
+
 I made a very silly gesture controlled robot unicorn because I was bored with personality free robots that move in a straight line. This is a cheap, unreliable, hilarious robot unicorn suitable for beginners. Have fun!
 
-INGREDIENTS
+## INGREDIENTS
 
 Here's what you'll need. The links below to each part are just examples - with a bit of searching you will be able to find any of these parts cheaper in whatever shop you normally use to get parts like this. Ebay, Amazon, Rapid, Digikey, Kitronik etc.
 
@@ -27,7 +29,7 @@ Here's what you'll need. The links below to each part are just examples - with a
 
 - some double sided sticky tape, some sellotape and/or some decent glue. Those double sided padded sticky things work really well for fixing the servos to the cardboard chassis.
 
-WHAT TO DO
+## WHAT TO DO
 
 1. Make the unicorn body. You can download the ai or pdf files and either lasercut them on card (there are two layers, one for cut and one for score) or print them out on A4 card and use a scalpel or scissors to cut and score them by hand. I've even done a badly lit step by step instruction video on my youtube channel.
 https://www.youtube.com/watch?v=CKqrMxuZ6gQ
@@ -36,11 +38,9 @@ https://www.youtube.com/watch?v=CKqrMxuZ6gQ
 https://youtu.be/CKqrMxuZ6gQ?t=178
 
 3. Code it! I've done two videos for this, a tester video to get you familiar with using one MicroBit, and another for gesture controlling your robot unicorn with two microbits. Both are totally suitable for beginners. Find them here.
-
-https://www.youtube.com/watch?v=OBcVMPdAIoE
-
-https://www.youtube.com/watch?v=qAakgfNouOI
+    - https://www.youtube.com/watch?v=OBcVMPdAIoE
+    - https://www.youtube.com/watch?v=qAakgfNouOI
 
 4. Play! Make an obstacle course! Make another one and have a race or a dance off with a friend!
 
-5. Tell me you made it. It brings me joy to know other people make stuff I document, even if it is silly. Say hi on my Twitter @helenleigh and subscribe to my channel on YouTube https://youtube.com/c/HelenLeigh
+5. Tell me you made it. It brings me joy to know other people make stuff I document, even if it is silly. Say hi on my Twitter [@helenleigh](https://twitter.com/helenleigh) and subscribe to my channel on YouTube https://youtube.com/c/HelenLeigh
