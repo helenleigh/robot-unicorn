@@ -1,7 +1,7 @@
 # robot-unicorn
 Gesture controlled robot unicorn made of cardboard, glitter and microbits
 
-![robot-unicorn-picture](https://pbs.twimg.com/media/D8aPxreXsA41eoR?format=jpg)
+![robot-unicorn-picture](https://user-images.githubusercontent.com/4189262/59131494-7bea4480-896a-11e9-89c8-653c9b070b49.png)
 
 I made a very silly gesture controlled robot unicorn because I was bored with personality free robots that move in a straight line. This is a cheap, unreliable, hilarious robot unicorn suitable for beginners. Have fun!
 
